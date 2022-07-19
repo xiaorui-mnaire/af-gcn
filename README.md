@@ -1,5 +1,8 @@
-# af-gcn
+# AF-GCN
 
+This is the Pytorch implementation for our TBD 2022 paper:
+
+TBD 2022. Guowei Yue, Rui Xiao, Zhongying Zhao, Chao Li. AF-GCN: Attribute-Fusing Graph Convolution Network for Recommendation.
 
 torch==1.4.0
 pandas==0.24.2
